@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Class-Path: spring-context-5.2.8.RELEASE.jar spring-webmvc-5.2.8.RELEASE
+ .jar spring-security-core-5.4.2.jar javax.servlet.jsp-api-2.3.1.jar spr
+ ing-security-config-5.4.2.jar spring-expression-5.2.8.RELEASE.jar jstl-
+ 1.2.jar spring-core-5.2.8.RELEASE.jar spring-aop-5.2.8.RELEASE.jar spri
+ ng-jcl-5.2.8.RELEASE.jar spring-security-web-5.4.2.jar spring-web-5.2.8
+ .RELEASE.jar javax.servlet-api-3.1.0.jar jaxb-api-2.3.0.jar spring-bean
+ s-5.2.8.RELEASE.jar
+
